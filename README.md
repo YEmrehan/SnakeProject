@@ -1,4 +1,3 @@
-
 # 🐍 Snake Game (Java)
 
 This is a simple and fun version of the classic Snake game developed using Java Swing. The game is controlled with arrow keys and includes a basic scoring system.
@@ -8,9 +7,9 @@ This is a simple and fun version of the classic Snake game developed using Java 
 > The game screen displays the snake, food (apples), and current score at the top.
 
 <p float="left">
-  <img src="media/ss1.png" width="400" />
-  <img src="media/ss2.png" width="400" />
-  <img src="media/ss3.png" width="400" />
+  <img src="media/ss1.png" width="300" />
+  <img src="media/ss2.png" width="300" />
+  <img src="media/ss3.png" width="300" />
 </p>
 
 
